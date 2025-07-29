@@ -1,0 +1,1 @@
+SELECT count(distinct txn_id) from sales

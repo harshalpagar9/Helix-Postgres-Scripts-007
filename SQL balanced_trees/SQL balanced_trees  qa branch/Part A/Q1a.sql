@@ -1,0 +1,1 @@
+select sum(qty) as total_qty from sales
